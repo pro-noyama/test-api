@@ -1,4 +1,4 @@
-name := """src"""
+name := """test-api"""
 
 version := "1.0-SNAPSHOT"
 
